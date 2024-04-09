@@ -1,0 +1,64 @@
+{
+    "vehicles": [
+      {
+        "id": 1,
+        "make": "Peugeot",
+        "model": "3008",
+        "type": "SUV",
+        "transmission": "Automatic",
+        "price_per_day": 100.000,
+        "description": "la gama de motores del 3008 estuvo compuesta por un gasolina de 1.6 litros y 120 o 156 CV, un diésel de 1.6 litros y 109 CV, y un diésel de 2.0 litros y 150 o 163 CV. Salvo el diésel de 2.0 litros, el resto de los motores ya se ofrece en otros modelos del Groupe PSA, incluyendo el 308 y el muy famoso Mini Cooper.",
+        "properties": {
+          "motor_power_hp": 120,
+          "fuel_type": "Diesel",
+          "engine_capacity_cc": 1560,
+          "traction": "4x2"
+        }
+      },
+      {
+        "id": 2,
+        "make": "Ford",
+        "model": "Focus",
+        "type": "Hatchback",
+        "transmission": "Automatic",
+        "price_per_day": 700.000,
+        "description": "El Ford Focus es un automóvil compacto del segmento C fabricado por Ford Motor Company desde 1999. Fue creado bajo el plan Ford 2000 de Alexander Trotman.",
+        "properties": {
+          "motor_power_hp": 150,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": 2000,
+          "traction": "FWD"
+        }
+      },
+      {
+        "id": 3,
+        "make": "Renault",
+        "model": "Megane",
+        "type": "Sedan",
+        "transmission": "Automatic",
+        "price_per_day": 800.000,
+        "description": "El Renault Megane es un automóvil de turismo del segmento C producido por el fabricante francés Renault. El Megane es el sustituto del Renault 19 y existen cuatro generaciones, lanzadas en los años 1995, 2002, 2008 y 2016 respectivamente.",
+        "properties": {
+          "motor_power_hp": 130,
+          "fuel_type": "Hybrid",
+          "engine_capacity_cc": 1400,
+          "traction": "AWD"
+        }
+      },
+      {
+        "id": 4,
+        "make": "Fiat",
+        "model": "Fiorino",
+        "type": "MPV",
+        "transmission": "Manual",
+        "price_per_day": 500.000,
+        "description": "La Fiat Fiorino es un vehículo comercial ligero pequeño fabricado por la empresa italiana Fiat desde 1977. Desde ese año, se han fabricado cuatro modelos de esta furgoneta ligera y de bajo porte.",
+        "properties": {
+          "motor_power_hp": 95,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": 1300,
+          "traction": "FWD"
+        }
+      }
+    ]
+}
